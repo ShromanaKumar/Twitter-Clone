@@ -1,7 +1,7 @@
 **Problem Definition**
 In this project, you have to implement a Twitter Clone and a client tester/simulator.
 
-As of now, Tweeter does not seem to support a WebSocket API. As part I of this project, you need to build an engine that (in part II) will be paired up with WebSockets to provide full functionality. Specific things you have to do are: 
+Specific things you have to do are: 
 
 **Implement a Twitter-like engine with the following functionality:**
 Register account
